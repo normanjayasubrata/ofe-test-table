@@ -1,0 +1,13 @@
+.mainTable {
+  border: solid black 1px;
+  font-size: 1rem;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}

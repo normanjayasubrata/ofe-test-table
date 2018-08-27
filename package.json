@@ -1,0 +1,26 @@
+{
+  "name": "ofe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^3.3.7",
+    "rc-checkbox": "^2.1.5",
+    "react": "^16.4.2",
+    "react-bootstrap": "^0.32.3",
+    "react-bootstrap-table-next": "^1.1.2",
+    "react-bootstrap-table2-toolkit": "^1.0.2",
+    "react-csv": "^1.0.15",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
