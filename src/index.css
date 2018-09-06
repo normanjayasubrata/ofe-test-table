@@ -11,3 +11,30 @@ ul {
 .right {
   text-align: right;
 }
+
+.favourite {
+  color: blue;
+  background-color: Transparent;
+  border: none;
+  font-size: 1.5rem;
+  outline: none;
+}
+
+.un_favourite {
+  /* color: blue; */
+  background-color: Transparent;
+  border: none;
+  font-size: 1.5rem;
+  outline: none;
+}
+
+.star::before {
+  content: "\2606";
+}
+
+.bookmark {
+  background-color: Transparent;
+  border: none;
+  /* font-size: 1.5rem; */
+  outline: none;
+}

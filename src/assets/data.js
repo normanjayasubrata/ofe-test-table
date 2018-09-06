@@ -10,7 +10,8 @@ const vessel = [
     date: "01 - 01 - 1991",
     country: "Greece",
     price: 500000,
-    yard: "Eleusis Shipyard"
+    yard: "Eleusis Shipyard",
+    favourite: false
   },
   {
     id: 2,
@@ -23,7 +24,8 @@ const vessel = [
     date: "01 - 01 - 1988",
     country: "Poland",
     price: 500000,
-    yard: "Stocznia im Kom"
+    yard: "Stocznia im Kom",
+    favourite: false
   },
   {
     id: 3,
@@ -36,7 +38,8 @@ const vessel = [
     date: "01 - 01 - 1989",
     country: "Poland",
     price: 500000,
-    yard: "Stocznia im Kom"
+    yard: "Stocznia im Kom",
+    favourite: true
   },
   {
     id: 4,
@@ -49,7 +52,8 @@ const vessel = [
     date: "01 - 01 - 1993",
     country: "Poland",
     price: 500000,
-    yard: "Stocznia im Kom"
+    yard: "Stocznia im Kom",
+    favourite: false
   },
   {
     id: 5,
@@ -62,7 +66,8 @@ const vessel = [
     date: "01 - 01 - 1991",
     country: "Japan",
     price: 500000,
-    yard: "Oshima Shipbuilder"
+    yard: "Oshima Shipbuilder",
+    favourite: true
   },
   {
     id: 6,
@@ -75,7 +80,8 @@ const vessel = [
     date: "01 - 01 - 1991",
     country: "Brazil",
     price: 500000,
-    yard: "Ind. Verolme"
+    yard: "Ind. Verolme",
+    favourite: false
   }
 ];
 
